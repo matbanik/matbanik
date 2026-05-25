@@ -6,7 +6,7 @@ I'm a systems engineer who thinks in patterns, builds practical tools, and write
 
 **What I'm working on:**
 - [matbanik.info](https://matbanik.info) - multilingual site about architecture, health, cycling, and continuous learning
-- PowerShell and Python automation for Windows infrastructure
+- PowerShell and Python automation for IT infrastructure
 - Experimenting with AI agent workflows for real work
 
 **What I care about:**
